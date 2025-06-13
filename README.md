@@ -19,4 +19,4 @@ It demonstrates various custom components and layout techniques aimed at enhanci
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/canerozcann/uiwidgets.git
